@@ -450,6 +450,53 @@ span, a {
         margin: 0 20px;
     }
 }
+@media(max-width:400px) {
+    .qih1, .qlink, .qlp, .q2h2, .q2btn, .ih1, .uh1, .oh2, .op {
+        width: 100%;
+        text-align: center;
+    }
+    .obtn {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .y1, .y2, .y3, .y4, .y5 {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+
+    }
+    .bbx {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .ibox  {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .uc {
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+    .tuc {
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+    .ubx, .tbx, .tltx {
+        width: 100%;
+        text-align: center;
+    }
+    .m3b {
+        width: 100%;
+        justify-content: left;
+        margin-bottom: 20px;
+    }
+}
 @media(max-width:320px){
     .m3b, .q1h1, .ibox, .ubx, .tpic, .tltx, .bbx, .ochap, .uh1, .opic {
        width: 100%;  
