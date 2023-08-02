@@ -283,7 +283,7 @@ span, a {
 }
 .yeti {
     background-color: rgb(234, 234, 242);
-    padding: 50px 100px;
+    padding: 20px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
